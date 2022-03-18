@@ -1,4 +1,7 @@
 # Oluwatosin-Agbetunsin
+
+Automated ELK Stack Development.
+
 This repository that will serve as place where I store my scripts, diagrams or other documentation that you I have worked on throughout this course. Additionally I will be uploading the README file, network diagram, and other associated files that i have created during the ELK Stack project.
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the repository file may be used to install only certain pieces of it, such as Filebeat.
 image
